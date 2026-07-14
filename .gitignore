@@ -1,0 +1,33 @@
+# Go
+*.exe
+*.test
+*.out
+phone-tracker
+phone-tracker.db
+phone-tracker.db-wal
+phone-tracker.db-shm
+
+# Flutter
+app/build/
+app/.dart_tool/
+app/.packages
+app/.pub/
+app/pubspec.lock
+app/android/.gradle/
+app/android/local.properties
+app/android/key.properties
+app/android/app/build/
+app/ios/
+app/web/
+app/coverage/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
